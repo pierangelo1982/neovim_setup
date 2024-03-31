@@ -17,7 +17,7 @@ leader+pv    ---->   start explore (:Ex)
 ### harpoon
     leader+a     ---->   add files to harpoon
 
-C+e         ---->   quick menu (swapfile)
+    C+e         ---->   quick menu (swapfile)
 
     C+h          ---->   go to harpoon file 1
 
