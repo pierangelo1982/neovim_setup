@@ -28,6 +28,27 @@ C+w-w        ---->   move to next window
 C+w-r        ---->   rotate windows
 
 C+w-o        ---->   close other windows
+
+### move to definitions function etc
+
+g+d          ---->   go to definitions
+
+g+r          ---->   go to references
+
+g+i          ---->   go to implementations
+
+g+o          ---->   go to type definitions
+
+g+D          ---->   go to declaration
+
+g+e          ---->   go to last edit
+
+g+q          ---->   go to quickfix
+
+g+*         ---->   go to next word under cursor
+
+### move to next and previous
+
 ### telescope
     leader+pf    ---->   project files
 
