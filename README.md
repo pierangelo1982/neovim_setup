@@ -9,6 +9,10 @@ N.B: leader is currently space and C is ctrl.
 
 leader+pv    ---->   start explore (:Ex)
 
+C+w-v        ---->   split vertical
+
+C+w-s        ---->   split horizontal
+
 ### telescope
     leader+pf    ---->   project files
 
