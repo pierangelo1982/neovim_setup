@@ -13,8 +13,11 @@ return require('packer').startup(function(use)
 	  requires = { {'nvim-lua/plenary.nvim'} }
   }
 
-  use({ 
-	  "rose-pine/neovim", 
+
+  use("folke/tokyonight.nvim")
+
+  use({
+	  "rose-pine/neovim",
 	  as = "rose-pine",
 	  config = function()
 		  vim.cmd('colorscheme rose-pine')
@@ -25,7 +28,6 @@ return require('packer').startup(function(use)
   use('nvim-treesitter/playground')
   use('ThePrimeagen/harpoon')
   use 'mbbill/undotree'
-  use('github/copilot.vim')
   use('github/copilot.vim')
   use('tpope/vim-fugitive')
 use {
