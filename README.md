@@ -13,6 +13,21 @@ C+w-v        ---->   split vertical
 
 C+w-s        ---->   split horizontal
 
+C+w-c        ---->   close window
+
+C+w-h        ---->   move to left window
+
+C+w-j        ---->   move to down window
+
+C+w-k        ---->   move to up window
+
+C+w-l        ---->   move to right window
+
+C+w-w        ---->   move to next window
+
+C+w-r        ---->   rotate windows
+
+C+w-o        ---->   close other windows
 ### telescope
     leader+pf    ---->   project files
 
