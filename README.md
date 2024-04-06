@@ -9,43 +9,43 @@ N.B: leader is currently space and C is ctrl.
 
 leader+pv    ---->   start explore (:Ex)
 
-C+w-v        ---->   split vertical
+    C+w-v        ---->   split vertical
 
-C+w-s        ---->   split horizontal
+    C+w-s        ---->   split horizontal
 
-C+w-c        ---->   close window
+    C+w-c        ---->   close window
 
-C+w-h        ---->   move to left window
+    C+w-h        ---->   move to left window
 
-C+w-j        ---->   move to down window
+    C+w-j        ---->   move to down window
 
-C+w-k        ---->   move to up window
+    C+w-k        ---->   move to up window
 
-C+w-l        ---->   move to right window
+    C+w-l        ---->   move to right window
 
-C+w-w        ---->   move to next window
+    C+w-w        ---->   move to next window
 
-C+w-r        ---->   rotate windows
+    C+w-r        ---->   rotate windows
 
-C+w-o        ---->   close other windows
+    C+w-o        ---->   close other windows
 
 ### move to definitions function etc
 
-g+d          ---->   go to definitions
+    g+d          ---->   go to definitions
 
-g+r          ---->   go to references
+    g+r          ---->   go to references
 
-g+i          ---->   go to implementations
+    g+i          ---->   go to implementations
 
-g+o          ---->   go to type definitions
+    g+o          ---->   go to type definitions
 
-g+D          ---->   go to declaration
+    g+D          ---->   go to declaration
 
-g+e          ---->   go to last edit
+    g+e          ---->   go to last edit
 
-g+q          ---->   go to quickfix
+    g+q          ---->   go to quickfix
 
-g+*         ---->   go to next word under cursor
+    g+*         ---->   go to next word under cursor
 
 ### move to next and previous
 
@@ -57,7 +57,7 @@ g+*         ---->   go to next word under cursor
 ### harpoon
     leader+a     ---->   add files to harpoon
 
-    C+e         ---->   quick menu (swapfile)
+C+e         ---->   quick menu (swapfile)
 
     C+h          ---->   go to harpoon file 1
 
