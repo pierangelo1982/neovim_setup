@@ -29,6 +29,45 @@ leader+pv    ---->   start explore (:Ex)
 
     C+w-o        ---->   close other windows
 
+### move in page
+    
+        C+u          ---->   move up
+    
+        C+d          ---->   move down
+    
+        C+b          ---->   move back
+    
+        C+f          ---->   move forward
+
+### move in buffers
+    
+        C+h          ---->   move to left buffer
+    
+        C+l          ---->   move to right buffer
+    
+        C+j          ---->   move to next buffer
+    
+        C+k          ---->   move to previous buffer
+    
+        C+q          ---->   close buffer
+    
+        C+o          ---->   open buffer
+    
+        C+t          ---->   open new buffer
+    
+        C+T          ---->   open new buffer in new tab
+    
+        C+H          ---->   move to left tab
+    
+        C+L          ---->   move to right tab
+    
+        C+J          ---->   move to next tab
+    
+        C+K          ---->   move to previous tab
+    
+        C+Q          ---->   close tab
+    
+        C+O          ---->   open tab
 ### move to definitions function etc
 
     g+d          ---->   go to definitions
