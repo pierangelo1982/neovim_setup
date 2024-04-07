@@ -90,6 +90,11 @@ leader+pv    ---->   start explore (:Ex)
 
 ### move to next and previous
 
+### chamge words
+    [https://phoenixnap.com/kb/vim-find-replace#:~:text=Use%20the%20slash%20and%20dot,the%20text%20and%20hit%20Enter.](https://phoenixnap.com/kb/vim-find-replace#:~:text=Use%20the%20slash%20and%20dot,the%20text%20and%20hit%20Enter.)
+
+example:
+
 ### telescope
     leader+pf    ---->   project files
 
