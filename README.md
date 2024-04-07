@@ -2,6 +2,8 @@
 
 inspired by: [https://www.youtube.com/watch?v=w7i4amO_zaE&t=1231s](https://www.youtube.com/watch?v=w7i4amO_zaE&t=1231s)
 
+useful links:
+[https://cheatography.com/thissitesucks/cheat-sheets/vscode-vim/](https://cheatography.com/thissitesucks/cheat-sheets/vscode-vim/)
 
 ## basic keymap
 
